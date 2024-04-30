@@ -1,0 +1,25 @@
+ .navigare ul{
+   list-style-type: none;
+   background-color:aquamarine;
+   padding:0px;
+   margin-right:0px;
+   overflow:hidden
+ }
+
+ .navigare a{
+   display:block;
+   padding :35px;
+   margin-right: 0px;
+   margin-left:20px
+ }
+
+ .navigare li{
+   float:left
+ }
+
+ div{
+  position: absolute;
+  top: 45px;
+  left:20px;
+  margin-right:20px;
+}
